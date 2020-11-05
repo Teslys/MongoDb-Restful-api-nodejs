@@ -1,6 +1,5 @@
 # MongoDb-Restful-api-nodejs
-
-# Api Usage 
+## Api Usage 
 
 Get Collection => "http://localhost:[port]/[password]/getcollection/[Collection]"
 
