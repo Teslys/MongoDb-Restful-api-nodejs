@@ -11,7 +11,7 @@ Get Document => "http://localhost:[port]/[password]/get/[Collection]/[Field Name
 İnsert Document => "http://localhost:[port]/[password]/insert/[Collection]" // Method: [POST]
 ```
 
-[Get Document and Post Updated Document Data] 
+## Get Document after Post Updated Document Data
 ```
     Update Document => "http://localhost:[port]/[password]/update/[Collection]" // Method: [POST]
 ```
