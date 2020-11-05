@@ -16,3 +16,13 @@ Get Document => "http://localhost:[port]/[password]/get/[Collection]/[Field Name
     Update Document => "http://localhost:[port]/[password]/update/[Collection]" // Method: [POST]
 ```
 
+## Config
+```
+
+{
+    "url": "mongodb://localhost/[databaseName]",
+    "poolSize":25,
+    "apiPass":"[password]",
+    "port":[port]
+}
+```
