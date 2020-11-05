@@ -1,3 +1,3 @@
 # MongoDb-Restful-api-nodejs
 
-asdasd
+Get Collection "http://localhost:port/[password]/[Collection]"
